@@ -4,7 +4,7 @@ import streamlit as st
 import pinecone
 from pinecone import ServerlessSpec
 #from pinecone.config import ServerlessSpec
-
+from langchain.chat_models import ChatOpenAI
 #from langchain_pinecome import PineconeVectorStore
 from langchain_community.vectorstores import Pinecone
 #from pinecone import Pinecone, ServerlessSpec
