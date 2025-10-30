@@ -15,4 +15,5 @@ pypdf
 langchain-pinecone
 huggingface
 langchain-huggingface
-
+sentence-transformers
+angchain-community
